@@ -4,7 +4,7 @@ Date: October 2025
 
 Tools: Excel, PowerPoint, Canva  
 Skills: Market strategy, data analysis, competitive benchmarking, digital innovation, presentation design  
-*Note: Click "raw" on the EY TechX Case Project file to open the pptx on PowerPoint.
+*Note: Click "view raw" on the EY TechX Case Project file to open the pptx on PowerPoint.
 
 Overview
 This case project, developed for the EY TechX Challenge, analyzed Nike’s digital ecosystem and brand reinvention strategy in a rapidly evolving retail landscape.  
